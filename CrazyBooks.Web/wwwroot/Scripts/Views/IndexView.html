@@ -1,0 +1,40 @@
+﻿<style>
+    .Menu {
+        width: var(--menuWidth);
+        height: 100%;
+        background-color: black;
+        margin: 0px;
+        padding: 0;
+    }
+
+    .Header {
+        width: calc(100% - var(--menuWidth));
+        height: var(--headerHeight);
+        background-color: pink;
+        padding: 0;
+    }
+
+    .Content {
+        width: calc(100% - var(--menuWidth));
+        height: calc(100% - var(--headerHeight));
+        position: absolute;
+        margin-top: var(--headerHeight);
+        margin-left: var(--menuWidth);
+        margin-bottom: 0;
+        margin-right: 0;
+        background-color: white;
+    }
+
+    .myGrid 
+    {
+        width: 800px;
+        height: 650px;
+    }
+</style>
+
+<div class="MainContainer" style="background-color: purple;">
+    <home ng-show="vm.IsLogon()"></home>
+    <start ng-show="vm.IsStartVisible()"></start>    
+
+    <loading ng-show="vm.IsLoading()"></loading>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\bin\Debug\netstandard2.0\CrazyBooks.Lib.DAL.deps.json
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\bin\Debug\netstandard2.0\CrazyBooks.Lib.DAL.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\bin\Debug\netstandard2.0\CrazyBooks.Lib.DAL.pdb
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\bin\Debug\netstandard2.0\CrazyBooks.Lib.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\bin\Debug\netstandard2.0\CrazyBooks.Lib.pdb
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.AssemblyInfo.cs
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.csproj.CopyComplete
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.DAL\obj\Debug\netstandard2.0\CrazyBooks.Lib.DAL.pdb

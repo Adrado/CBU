@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>CoreCompat.System.Drawing.v2</id>
+    <version>5.2.0-preview1-r131</version>
+    <title>System.Drawing for .NET Core</title>
+    <authors>MonoProject, Quamotion</authors>
+    <owners>MonoProject, Quamotion</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/CoreCompat/System.Drawing</projectUrl>
+    <description>A port of Mono's System.Drawing for .NET Core 2.0 and above. Includes types such as System.Drawing.Bitmap and System.Drawing.Image, allowing you to interact with images from .NET Core.</description>
+    <tags>System.Drawing netcore netstandard</tags>
+    <repository type="git" url="https://github.com/CoreCompat/System.Drawing" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2" />
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Security.Permissions" version="4.4.0-preview1-25305-02" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

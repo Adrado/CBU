@@ -1,0 +1,12 @@
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.deps.json
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.pdb
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.pdb
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csproj.CopyComplete
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.dll
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.pdb

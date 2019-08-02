@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html ng-app="CrazyBooksApp">
+<head>
+    <meta charset="utf-8" />
+    <base href="/" />
+    <title>Crazy Book angular powered!</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular-animate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.8/angular-route.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.8.0/ui-grid.js"></script>
+    <script src="Scripts/Dependencies/ngfileupload_all.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.js"></script>
+
+    <link href="./Css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.8.0/ui-grid.min.css" />
+
+    <script src="Scripts/Models/Entity.js"></script>
+    <script src="Scripts/Models/User.js"></script>
+    <script src="Scripts/Models/Book.js"></script>
+    <script src="Scripts/Models/Member.js"></script>
+    <script src="Scripts/Models/Admin.js"></script>
+    <script src="Scripts/Models/Lend.js"></script>
+
+    <script src="Scripts/Services/dtos/LoginRequest.js"></script>
+    <script src="Scripts/Services/dtos/RegisterRequest.js"></script>
+
+    <script src="./Scripts/App.js"></script>
+    <script src="Scripts/Services/GenericService.js"></script>
+    <script src="Scripts/Services/CrudService.js"></script>
+    <script src="Scripts/Services/AdminsService.js"></script>
+    <script src="Scripts/Services/UsersService.js"></script>
+    <script src="Scripts/Services/MembersService.js"></script>
+    <script src="Scripts/Services/BooksService.js"></script>
+    <script src="Scripts/Services/LoginService.js"></script>
+    <script src="Scripts/Services/RegisterService.js"></script>
+    <script src="Scripts/Services/LendsService.js"></script>
+
+    <script src="./Scripts/Views/IndexViewModel.js"></script>
+    <script src="Scripts/Views/Controls/Loading/LoadingViewModel.js"></script>
+
+    <script src="./Scripts/Views/Start/StartViewModel.js"></script>
+    <script src="./Scripts/Views/Start/Login/LoginViewModel.js"></script>
+    <script src="Scripts/Views/Start/Register/RegisterViewModel.js"></script>
+
+    <script src="./Scripts/Views/Home/HomeViewModel.js"></script>
+    <script src="./Scripts/Views/Home/Menu/MenuViewModel.js"></script>
+    <script src="./Scripts/Views/Home/Header/HeaderViewModel.js"></script>
+    <script src="./Scripts/Views/Home/Users/UsersViewModel.js"></script>
+    <script src="./Scripts/Views/Home/Books/BooksViewModel.js"></script>
+    <script src="Scripts/Views/Home/Admins/AdminsViewModel.js"></script>
+    <script src="Scripts/Views/Home/Members/MembersViewModel.js"></script>
+    <script src="Scripts/Views/Home/Lends/LendsViewModel.js"></script>
+</head>
+<body>
+    <div class="MainContainer">
+        <index class="MainContainer"></index>
+    </div>
+</body>
+</html>

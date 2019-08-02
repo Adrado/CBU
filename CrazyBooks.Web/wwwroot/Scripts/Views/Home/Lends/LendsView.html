@@ -1,0 +1,24 @@
+﻿<style>
+
+</style>
+
+<div class="Header" style="width:100%; height: 100%; background-color: green;">
+    <div class="panel-default" heading="Lend Books To Members" is-open="vm.IsFormOpen">
+        <form>
+            <label for="SelectMember">Select a member:</label>
+            <select class="form-control" name="SelectMember" id="SelectMember"
+                    ng-options="member.ComposedName for member in vm.Members track by member.Id"
+                    ng-model="vm.SelectedMember"></select>
+
+            <label for="SelectBook">Select a Book:</label>
+            <select class="form-control" name="SelectBook" id="SelectBook"
+                    ng-options="book.ComposedName for book in vm.Books track by book.Id"
+                    ng-model="vm.SelectedBook"></select>            
+        </form>
+        <input type="button" value="Prestar" ng-click="vm.RequestLend()"/>
+
+    </div>
+    <div class="panel-default" heading="Member current Lends" is-open="vm.IsListOpen">            
+        <div ui-grid="vm.GridOptions"></div>
+    </div>
+</div>

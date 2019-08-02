@@ -1,0 +1,4 @@
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Web\obj\Debug\netcoreapp3\CrazyBooks.Web.csprojAssemblyReference.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Web\obj\Debug\netcoreapp3\CrazyBooks.Web.csproj.CoreCompileInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Web\obj\Debug\netcoreapp3\CrazyBooks.Web.AssemblyInfoInputs.cache
+C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Web\obj\Debug\netcoreapp3\CrazyBooks.Web.AssemblyInfo.cs
