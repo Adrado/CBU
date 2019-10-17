@@ -2630,43 +2630,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gemma\\.nuget\\packages\\": {},
+    "C:\\Users\\mt\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EXAM\\CrazyBooks.Ultimate.v2\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\CrazyBooks.Lib.DA.EFCore.csproj",
+      "projectUniqueName": "C:\\Dev\\cbu\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\CrazyBooks.Lib.DA.EFCore.csproj",
       "projectName": "CrazyBooks.Lib.DA.EFCore",
-      "projectPath": "F:\\EXAM\\CrazyBooks.Ultimate.v2\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\CrazyBooks.Lib.DA.EFCore.csproj",
-      "packagesPath": "C:\\Users\\gemma\\.nuget\\packages\\",
-      "outputPath": "F:\\EXAM\\CrazyBooks.Ultimate.v2\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\obj\\",
+      "projectPath": "C:\\Dev\\cbu\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\CrazyBooks.Lib.DA.EFCore.csproj",
+      "packagesPath": "C:\\Users\\mt\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\cbu\\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\gemma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\EXAM\\CrazyBooks.Ultimate.v2\\CrazyBooks.Lib\\CrazyBooks.Lib.csproj": {
-              "projectPath": "F:\\EXAM\\CrazyBooks.Ultimate.v2\\CrazyBooks.Lib\\CrazyBooks.Lib.csproj"
+            "C:\\Dev\\cbu\\CrazyBooks.Lib\\CrazyBooks.Lib.csproj": {
+              "projectPath": "C:\\Dev\\cbu\\CrazyBooks.Lib\\CrazyBooks.Lib.csproj"
             }
           }
         }

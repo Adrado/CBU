@@ -10,3 +10,15 @@ C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Lib.Server\obj\Deb
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.csproj.CopyComplete
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.dll
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\bin\Debug\netstandard2.0\CrazyBooks.Lib.Server.deps.json
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\bin\Debug\netstandard2.0\CrazyBooks.Lib.Server.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\bin\Debug\netstandard2.0\CrazyBooks.Lib.Server.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\bin\Debug\netstandard2.0\CrazyBooks.Lib.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\bin\Debug\netstandard2.0\CrazyBooks.Lib.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.csprojAssemblyReference.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.csproj.CoreCompileInputs.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.AssemblyInfoInputs.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.AssemblyInfo.cs
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.csproj.CopyComplete
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBooks.Lib.Server\obj\Debug\netstandard2.0\CrazyBooks.Lib.Server.pdb

@@ -10,3 +10,15 @@ C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFramew
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csproj.CopyComplete
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.dll
 C:\Users\a4alumno\source\repos\CrazyBooks.Ultimate\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.deps.json
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\bin\Debug\netstandard2.0\CrazyBooks.Lib.pdb
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.csproj.CopyComplete
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.dll
+C:\Dev\CrazyBooks.Ultimate.v2\CrazyBook.Lib.DA.EntityFrameworkCore.SqlServer\obj\Debug\netstandard2.0\CrazyBooks.Lib.DA.EFCore.pdb
